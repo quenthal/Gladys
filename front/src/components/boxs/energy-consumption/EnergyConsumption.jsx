@@ -17,12 +17,12 @@ import {
   getPreviousEnergyPeriodStart
 } from '../../../../../server/utils/energyPeriod';
 
-import { fr, de, es } from 'date-fns/locale';
+import { fr, de, es, fi } from 'date-fns/locale';
 
 import 'react-datepicker/dist/react-datepicker.css';
 import datePickerStyle from '../../datePicker.css';
 
-const LOCALES = { fr, de, es };
+const LOCALES = { fr, de, es, fi };
 
 const PERIODS = {
   YEAR: 'year',

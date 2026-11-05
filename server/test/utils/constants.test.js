@@ -1,5 +1,7 @@
 const { expect } = require('chai');
 const {
+  AVAILABLE_LANGUAGES,
+  AVAILABLE_LANGUAGES_LIST,
   THERMOSTAT_MODE,
   THERMOSTAT_OPERATING_STATE,
   DEVICE_FEATURE_CATEGORIES,
@@ -8,6 +10,13 @@ const {
   DEVICE_FEATURE_UNITS_BY_CATEGORY,
   DEVICE_FEATURE_UNITS_BY_CATEGORY_AND_TYPE,
 } = require('../../utils/constants');
+
+describe('constants AVAILABLE_LANGUAGES', () => {
+  it('should accept Finnish as a user language without removing existing languages', () => {
+    expect(AVAILABLE_LANGUAGES.FI).to.equal('fi');
+    expect(AVAILABLE_LANGUAGES_LIST).to.include.members(['en', 'fr', 'de', 'es', 'fi']);
+  });
+});
 
 describe('constants THERMOSTAT_MODE', () => {
   it('should expose the expected mode values', () => {

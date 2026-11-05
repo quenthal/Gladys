@@ -477,6 +477,7 @@ const AVAILABLE_LANGUAGES = {
   FR: 'fr',
   DE: 'de',
   ES: 'es',
+  FI: 'fi',
 };
 
 const SESSION_TOKEN_TYPES = {

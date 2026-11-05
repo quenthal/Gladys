@@ -1,3 +1,5 @@
+> **Suomenkielinen forkki:** Tämä versio lisää Gladys Assistantin käyttöliittymään suomen kielen. Katso [suomituen ohje ja rajaukset](SUOMI.md). Tämä on itsenäinen forkki, ei Gladysin virallinen julkaisu.
+
 <h1 align="center">
   <br>
   <img src="https://gladysassistant.com/en/img/external/github-gladys-logo.png" width="200" alt="Gladys Assistant Logo" />

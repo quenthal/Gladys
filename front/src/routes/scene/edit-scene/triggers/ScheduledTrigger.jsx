@@ -6,7 +6,7 @@ import { Text, Localizer } from 'preact-i18n';
 import { format } from 'date-fns';
 import Select from '../../../../components/form/Select';
 
-import { fr, de, es } from 'date-fns/locale';
+import { fr, de, es, fi } from 'date-fns/locale';
 
 import 'react-datepicker/dist/react-datepicker.css';
 import datePickerStyle from '../../../../components/datePicker.css';
@@ -14,7 +14,7 @@ import TimeRangesTrigger from './TimeRangesTrigger';
 
 const DAYS_OF_THE_MONTH = new Array(31).fill(0, 0, 31).map((val, index) => index + 1);
 
-const LOCALES = { fr, de, es };
+const LOCALES = { fr, de, es, fi };
 
 class TurnOnLight extends Component {
   resetForm = () => {
