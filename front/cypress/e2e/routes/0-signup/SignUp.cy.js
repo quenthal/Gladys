@@ -21,6 +21,7 @@ describe('Sign-up', () => {
     // Count fields
     cy.get('input:visible').should('be.length', 6);
     cy.get('select').should('be.length', 1);
+    cy.get('select option[value="fi"]').should('have.text', 'Suomi');
     cy.get('button').should('be.length', 1);
   });
 

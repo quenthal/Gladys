@@ -3,6 +3,7 @@ import 'dayjs/locale/en';
 import 'dayjs/locale/fr';
 import 'dayjs/locale/de';
 import 'dayjs/locale/es';
+import 'dayjs/locale/fi';
 import './style';
 import App from './components/app';
 

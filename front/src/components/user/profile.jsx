@@ -141,6 +141,9 @@ const Profile = ({ children, ...props }) => {
           <option value="de">
             <Text id="profile.german" />
           </option>
+          <option value="fi">
+            <Text id="profile.finnish" />
+          </option>
           <option value="es">
             <Text id="profile.spanish" />
           </option>
@@ -294,9 +297,11 @@ const Profile = ({ children, ...props }) => {
               value={props.newProfilePictureFormValue}
               lang={props.newUser.language}
             />
-            <label class="custom-file-label">
-              <Text id="profile.chooseFileLabel" />
-            </label>
+            <Localizer>
+              <label class="custom-file-label" data-browse={<Text id="global.selectPlaceholder" />}>
+                <Text id="profile.chooseFileLabel" />
+              </label>
+            </Localizer>
           </div>
           {props.newProfilePictureFormValue && (
             <EditableProfilePicture

@@ -10,11 +10,11 @@ import 'react-datepicker/dist/react-datepicker.css';
 import datePickerStyle from '../../../../components/datePicker.css';
 import style from './CheckTime.css';
 
-import { fr, de, es } from 'date-fns/locale';
+import { fr, de, es, fi } from 'date-fns/locale';
 
 const weekDays = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'];
 
-const LOCALES = { fr, de, es };
+const LOCALES = { fr, de, es, fi };
 
 class CheckTime extends Component {
   handleBeforeTimeChange = time => {

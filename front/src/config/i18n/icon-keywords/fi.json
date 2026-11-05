@@ -1,0 +1,1890 @@
+{
+  "activity": {
+    "keywords": "pulssin sykekaavio",
+    "label": "Tapahtumat"
+  },
+  "air-vent": {
+    "keywords": "ilmanvaihdon ilmastointi vmc kanava",
+    "label": "Tuuletusaukko"
+  },
+  "airplay": {
+    "keywords": "stream näytön peili",
+    "label": "Airplay"
+  },
+  "alarm-clock": {
+    "keywords": "herätä aamulla",
+    "label": "Herätyskello"
+  },
+  "alarm-clock-check": {
+    "keywords": "tehty vahvistettu",
+    "label": "Herätyskellon tarkistus"
+  },
+  "alarm-smoke": {
+    "keywords": "paloilmaisin",
+    "label": "Savuvaroitin"
+  },
+  "alert-circle": {
+    "keywords": "varoitusvirhe",
+    "label": "Varoituspiiri"
+  },
+  "alert-octagon": {
+    "keywords": "varoitus pysäytysvaara",
+    "label": "Varoitus kahdeksankulmio"
+  },
+  "alert-triangle": {
+    "keywords": "varoitus varoitus vaara",
+    "label": "Varoituskolmio"
+  },
+  "align-center": {
+    "keywords": "tekstiä",
+    "label": "Kohdista keskelle"
+  },
+  "align-justify": {
+    "keywords": "tekstiä",
+    "label": "Tasaa tasaus"
+  },
+  "align-left": {
+    "keywords": "tekstiä",
+    "label": "Tasaa vasemmalle"
+  },
+  "align-right": {
+    "keywords": "tekstiä",
+    "label": "Tasaa oikealle"
+  },
+  "anchor": {
+    "keywords": "venesatama",
+    "label": "Ankkuri"
+  },
+  "antenna": {
+    "keywords": "signaalin radiovastaanotto",
+    "label": "Antenni"
+  },
+  "aperture": {
+    "keywords": "kameran linssin valokuva",
+    "label": "Aukko"
+  },
+  "apple": {
+    "keywords": "hedelmäruoka terveellistä",
+    "label": "Apple"
+  },
+  "armchair": {
+    "keywords": "olohuoneen istuin",
+    "label": "Nojatuoli"
+  },
+  "arrow-down": {
+    "keywords": "laskeutua alemmas",
+    "label": "Nuoli alas"
+  },
+  "arrow-down-circle": {
+    "keywords": "laskeutua alemmas",
+    "label": "Nuoli alas ympyrä"
+  },
+  "arrow-down-left": {
+    "keywords": "laskeutua",
+    "label": "Nuoli alas vasemmalle"
+  },
+  "arrow-down-right": {
+    "keywords": "laskeutua",
+    "label": "Nuoli alas oikealle"
+  },
+  "arrow-left": {
+    "keywords": "takaisin",
+    "label": "Nuoli vasemmalle"
+  },
+  "arrow-left-circle": {
+    "keywords": "takaisin edelliseen",
+    "label": "Nuoli vasemmalle ympyrä"
+  },
+  "arrow-right": {
+    "keywords": "seuraavaksi eteenpäin",
+    "label": "Nuoli oikealle"
+  },
+  "arrow-right-circle": {
+    "keywords": "seuraavaksi eteenpäin",
+    "label": "Nuoli oikealle ympyrä"
+  },
+  "arrow-up": {
+    "keywords": "nosta korotus",
+    "label": "Nuoli ylös"
+  },
+  "arrow-up-circle": {
+    "keywords": "nosta korotus",
+    "label": "Nuoli ylös ympyrä"
+  },
+  "arrow-up-left": {
+    "keywords": "nousta",
+    "label": "Nuoli ylös vasemmalle"
+  },
+  "arrow-up-right": {
+    "keywords": "nousta",
+    "label": "Nuoli ylös oikealle"
+  },
+  "at-sign": {
+    "keywords": "sähköpostimaininta",
+    "label": "Merkissä"
+  },
+  "audio-lines": {
+    "keywords": "aaltomuodon ääni",
+    "label": "Äänilinjat"
+  },
+  "award": {
+    "keywords": "palkintomitalin pokaalipalkinto",
+    "label": "palkinto"
+  },
+  "baby": {
+    "keywords": "päiväkodin lapsi",
+    "label": "Vauva"
+  },
+  "backpack": {
+    "keywords": "koululaukun matka",
+    "label": "Reppu"
+  },
+  "badge-check": {
+    "keywords": "varmennettu sertifioitu luotettava",
+    "label": "Merkin tarkistus"
+  },
+  "ban": {
+    "keywords": "kielletty estetty nro",
+    "label": "Kielto"
+  },
+  "banknote": {
+    "keywords": "raha käteinen palkka",
+    "label": "Seteli"
+  },
+  "bar-chart": {
+    "keywords": "kaavion tilastot",
+    "label": "Pylväskaavio"
+  },
+  "bar-chart-2": {
+    "keywords": "kaavion tilastot",
+    "label": "Pylväskaavio (2)"
+  },
+  "bath": {
+    "keywords": "kylpyhuone",
+    "label": "Kylpy"
+  },
+  "battery": {
+    "keywords": "teho energiaa",
+    "label": "Akku"
+  },
+  "battery-charging": {
+    "keywords": "teho energiaa",
+    "label": "Akun lataus"
+  },
+  "battery-full": {
+    "keywords": "lataustason teho",
+    "label": "Akku täynnä"
+  },
+  "battery-low": {
+    "keywords": "lataustaso tyhjä",
+    "label": "Akku vähissä"
+  },
+  "battery-medium": {
+    "keywords": "lataustaso puolet",
+    "label": "Akun kesto"
+  },
+  "battery-warning": {
+    "keywords": "lataustason vika",
+    "label": "Akun varoitus"
+  },
+  "bed": {
+    "keywords": "makuuhuone nukkua yö",
+    "label": "Sänky"
+  },
+  "bed-double": {
+    "keywords": "makuuhuoneen pariskunta",
+    "label": "Kahden hengen sänky"
+  },
+  "bed-single": {
+    "keywords": "makuuhuoneen lapsi",
+    "label": "Yhden hengen sänky"
+  },
+  "beer": {
+    "keywords": "juo alkoholia tuopin",
+    "label": "Olut"
+  },
+  "bell": {
+    "keywords": "hälytyshälytys",
+    "label": "Bell"
+  },
+  "bell-dot": {
+    "keywords": "lukematon hälytysmerkki",
+    "label": "Kellopiste"
+  },
+  "bell-off": {
+    "keywords": "ilmoitus mykistetty",
+    "label": "Soita"
+  },
+  "bell-ring": {
+    "keywords": "hälytyksen ovikelloilmoitus",
+    "label": "Kellonsoitto"
+  },
+  "bike": {
+    "keywords": "polkupyörän pyörä",
+    "label": "Pyörä"
+  },
+  "bird": {
+    "keywords": "lemmikkieläin",
+    "label": "Lintu"
+  },
+  "blinds": {
+    "keywords": "rullakaihdin venetsialainen ikkunavarjostin",
+    "label": "Kaihtimet"
+  },
+  "bluetooth": {
+    "keywords": "langaton",
+    "label": "Bluetooth"
+  },
+  "bluetooth-connected": {
+    "keywords": "pariksi langattomasti",
+    "label": "Bluetooth kytketty"
+  },
+  "bold": {
+    "keywords": "tekstimuoto",
+    "label": "Lihavoitu"
+  },
+  "bone": {
+    "keywords": "koiran lemmikkiherkku",
+    "label": "Luu"
+  },
+  "book": {
+    "keywords": "lue",
+    "label": "Kirja"
+  },
+  "book-open": {
+    "keywords": "lue",
+    "label": "Kirja auki"
+  },
+  "bookmark": {
+    "keywords": "suosikkitallennus",
+    "label": "Kirjanmerkki"
+  },
+  "bot": {
+    "keywords": "ai avustajan automaatio",
+    "label": "Bot"
+  },
+  "box": {
+    "keywords": "paketti kuutio",
+    "label": "Laatikko"
+  },
+  "brain": {
+    "keywords": "ai älykkyys ajattelee",
+    "label": "Aivot"
+  },
+  "brick-wall": {
+    "keywords": "muurattu aita tiili",
+    "label": "Tiiliseinä"
+  },
+  "briefcase": {
+    "keywords": "työlaukku",
+    "label": "Salkku"
+  },
+  "brush-cleaning": {
+    "keywords": "imuroi kotityöt",
+    "label": "Siivous"
+  },
+  "building": {
+    "keywords": "toimistorakennus",
+    "label": "Rakennus"
+  },
+  "bus": {
+    "keywords": "julkisen liikenteen linja-auto",
+    "label": "Bussi"
+  },
+  "cable": {
+    "keywords": "johtoliittimen pistoke",
+    "label": "Kaapeli"
+  },
+  "cake": {
+    "keywords": "syntymäpäivän jälkiruoka",
+    "label": "Kakku"
+  },
+  "cake-slice": {
+    "keywords": "jälkiruoka",
+    "label": "Kakun siivu"
+  },
+  "calendar": {
+    "keywords": "päivämäärä aikataulu",
+    "label": "Kalenteri"
+  },
+  "calendar-check": {
+    "keywords": "vahvistettu aikataulu tehty",
+    "label": "Kalenterin tarkistus"
+  },
+  "calendar-clock": {
+    "keywords": "varaa aika tapaaminen",
+    "label": "Kalenterin kello"
+  },
+  "calendar-days": {
+    "keywords": "kuukauden aikataulujen päivämäärät",
+    "label": "Kalenteripäivät"
+  },
+  "camera": {
+    "keywords": "valokuva kuva",
+    "label": "Kamera"
+  },
+  "camera-off": {
+    "keywords": "valokuva pois käytöstä",
+    "label": "Kamera pois päältä"
+  },
+  "car": {
+    "keywords": "autotalli",
+    "label": "Auto"
+  },
+  "car-front": {
+    "keywords": "autotalli",
+    "label": "Auton etuosa"
+  },
+  "caravan": {
+    "keywords": "asuntovaunun loma",
+    "label": "Karavaani"
+  },
+  "carrot": {
+    "keywords": "kasvisruokapuutarha",
+    "label": "Porkkana"
+  },
+  "cast": {
+    "keywords": "stream televisio",
+    "label": "Cast"
+  },
+  "cat": {
+    "keywords": "lemmikkieläin",
+    "label": "Cat"
+  },
+  "cctv": {
+    "keywords": "turvakameravalvonta",
+    "label": "CCTV"
+  },
+  "check": {
+    "keywords": "tehty voimassa ok kyllä",
+    "label": "Tarkista"
+  },
+  "check-circle": {
+    "keywords": "tehty pätevä ok menestys",
+    "label": "Tarkista ympyrä"
+  },
+  "check-square": {
+    "keywords": "tehty kelvollinen valintaruutu",
+    "label": "Tarkista neliö"
+  },
+  "chef-hat": {
+    "keywords": "keittiön kokki",
+    "label": "Kokin hattu"
+  },
+  "chevron-down": {
+    "keywords": "laajenna pudotusvalikko auki",
+    "label": "Chevron alas"
+  },
+  "chevron-left": {
+    "keywords": "edellinen takaosa",
+    "label": "Chevron lähti"
+  },
+  "chevron-right": {
+    "keywords": "seuraavaksi eteenpäin",
+    "label": "Chevron oikea"
+  },
+  "chevron-up": {
+    "keywords": "romahtaa lähelle",
+    "label": "Chevron ylös"
+  },
+  "chevrons-down": {
+    "keywords": "kaksinkertainen",
+    "label": "Chevronit alas"
+  },
+  "chevrons-left": {
+    "keywords": "kaksinkertainen",
+    "label": "Chevronit jäljellä"
+  },
+  "chevrons-right": {
+    "keywords": "kaksinkertainen",
+    "label": "Chevronit oikein"
+  },
+  "chevrons-up": {
+    "keywords": "kaksinkertainen",
+    "label": "Chevronit ylös"
+  },
+  "chrome": {
+    "keywords": "selain google",
+    "label": "Chrome"
+  },
+  "circle": {
+    "keywords": "pyöreä muoto",
+    "label": "Ympyrä"
+  },
+  "clapperboard": {
+    "keywords": "elokuva elokuva video",
+    "label": "Clapperboard"
+  },
+  "clipboard": {
+    "keywords": "liitä kopio",
+    "label": "Leikepöytä"
+  },
+  "clock": {
+    "keywords": "aika tunti",
+    "label": "Kello"
+  },
+  "cloud": {
+    "keywords": "sää taivas",
+    "label": "Pilvi"
+  },
+  "cloud-drizzle": {
+    "keywords": "sää sade",
+    "label": "Pilvisadetta"
+  },
+  "cloud-fog": {
+    "keywords": "sumuinen sää",
+    "label": "Pilvisumua"
+  },
+  "cloud-hail": {
+    "keywords": "sää myrsky",
+    "label": "Pilvien rakeita"
+  },
+  "cloud-lightning": {
+    "keywords": "sää myrsky ukkonen",
+    "label": "Pilvi salama"
+  },
+  "cloud-moon": {
+    "keywords": "pilvinen yö sää",
+    "label": "Pilvi kuu"
+  },
+  "cloud-moon-rain": {
+    "keywords": "yön sää",
+    "label": "Pilvi kuu sade"
+  },
+  "cloud-off": {
+    "keywords": "irti",
+    "label": "Pilvi pois"
+  },
+  "cloud-rain": {
+    "keywords": "sää",
+    "label": "Pilvisadetta"
+  },
+  "cloud-snow": {
+    "keywords": "sää talvi",
+    "label": "Pilviä lunta"
+  },
+  "cloud-sun": {
+    "keywords": "puolipilvistä säätä",
+    "label": "Pilvi aurinko"
+  },
+  "cloud-sun-rain": {
+    "keywords": "sateinen sää",
+    "label": "Pilvi aurinko sadetta"
+  },
+  "code": {
+    "keywords": "kehittäjäohjelmointi",
+    "label": "Koodi"
+  },
+  "codepen": {
+    "keywords": "kehittäjä",
+    "label": "CodePen"
+  },
+  "coffee": {
+    "keywords": "juo kuuma kuppi aamulla",
+    "label": "Kahvia"
+  },
+  "command": {
+    "keywords": "avain mac-pikakuvake",
+    "label": "komento"
+  },
+  "compass": {
+    "keywords": "suunnan navigointi",
+    "label": "Kompassi"
+  },
+  "cooking-pot": {
+    "keywords": "keittiön paistinpannu",
+    "label": "Keittoastia"
+  },
+  "copy": {
+    "keywords": "kaksoiskappale",
+    "label": "Kopioi"
+  },
+  "corner-down-left": {
+    "keywords": "paluu kirjoita haara",
+    "label": "Kulma alas vasemmalle"
+  },
+  "corner-down-right": {
+    "keywords": "haara",
+    "label": "Kulma alas oikealle"
+  },
+  "corner-left-down": {
+    "keywords": "haara",
+    "label": "Kulma vasemmalle alas"
+  },
+  "corner-left-up": {
+    "keywords": "haara",
+    "label": "Kulma vasemmalle ylös"
+  },
+  "corner-right-down": {
+    "keywords": "haara",
+    "label": "Kulma oikealle alas"
+  },
+  "corner-right-up": {
+    "keywords": "haara",
+    "label": "Kulma oikealle"
+  },
+  "corner-up-left": {
+    "keywords": "haara",
+    "label": "Kulma ylhäällä vasemmalle"
+  },
+  "corner-up-right": {
+    "keywords": "haara",
+    "label": "Kulma oikealle"
+  },
+  "cpu": {
+    "keywords": "prosessori siru tietokone",
+    "label": "CPU"
+  },
+  "credit-card": {
+    "keywords": "maksu pankin rahaa",
+    "label": "Luottokortti"
+  },
+  "croissant": {
+    "keywords": "aamupala leipomoruoka",
+    "label": "Croissant"
+  },
+  "crop": {
+    "keywords": "kuvan leikkaus",
+    "label": "Rajaa"
+  },
+  "crosshair": {
+    "keywords": "tavoitteen tarkkuus",
+    "label": "Hiusristikko"
+  },
+  "cup-soda": {
+    "keywords": "juo kylmää lasia",
+    "label": "Kuppi soodaa"
+  },
+  "database": {
+    "keywords": "tallennustietopalvelin",
+    "label": "Tietokanta"
+  },
+  "delete": {
+    "keywords": "askelpalautin poista poisto",
+    "label": "Poista"
+  },
+  "disc": {
+    "keywords": "cd dvd musiikkialbumi",
+    "label": "Disc"
+  },
+  "disc-3": {
+    "keywords": "musiikkialbumin levysoitin",
+    "label": "Vinyylilevy"
+  },
+  "dog": {
+    "keywords": "lemmikkieläin",
+    "label": "Koira"
+  },
+  "dollar-sign": {
+    "keywords": "rahan valuutan hinta",
+    "label": "Dollarin merkki"
+  },
+  "door-closed": {
+    "keywords": "sisäänkäynti",
+    "label": "Ovi kiinni"
+  },
+  "door-closed-locked": {
+    "keywords": "turvallinen sisäänkäynti",
+    "label": "Ovi lukossa"
+  },
+  "door-open": {
+    "keywords": "sisäänkäynti",
+    "label": "Ovi auki"
+  },
+  "download": {
+    "keywords": "tallenna",
+    "label": "Lataa"
+  },
+  "download-cloud": {
+    "keywords": "tallenna",
+    "label": "Lataa pilvi"
+  },
+  "drill": {
+    "keywords": "työkalu itse ruuvi",
+    "label": "Pora"
+  },
+  "droplet": {
+    "keywords": "veden kosteus sade",
+    "label": "Pisara"
+  },
+  "droplets": {
+    "keywords": "veden kosteus sade",
+    "label": "Pisaroita"
+  },
+  "dumbbell": {
+    "keywords": "kuntosali urheilu kunto",
+    "label": "Käsipaino"
+  },
+  "edit": {
+    "keywords": "muokata kirjoitusta",
+    "label": "Muokkaa"
+  },
+  "edit-2": {
+    "keywords": "lyijykynällä kirjoittaa muokata",
+    "label": "Muokkaa (2)"
+  },
+  "edit-3": {
+    "keywords": "kynä kirjoittaa muokata",
+    "label": "Muokkaa (3)"
+  },
+  "egg": {
+    "keywords": "ruoka aamiaiskokki",
+    "label": "muna"
+  },
+  "euro": {
+    "keywords": "rahan valuutan hinta",
+    "label": "euroa"
+  },
+  "external-link": {
+    "keywords": "avaa uusi välilehti",
+    "label": "Ulkoinen linkki"
+  },
+  "eye": {
+    "keywords": "katso näkymä näkyvä kello",
+    "label": "Silmä"
+  },
+  "eye-off": {
+    "keywords": "piilota näkymätön piilotettu",
+    "label": "Silmä pois"
+  },
+  "facebook": {
+    "keywords": "sosiaalinen verkosto",
+    "label": "Facebook"
+  },
+  "fan": {
+    "keywords": "jäähdytysilmapuhallus",
+    "label": "Puhallin"
+  },
+  "fast-forward": {
+    "keywords": "media seuraava nopeus",
+    "label": "Pikakelaus eteenpäin"
+  },
+  "feather": {
+    "keywords": "sulkavalo kirjoittaa",
+    "label": "Sulka"
+  },
+  "fence": {
+    "keywords": "puutarha este",
+    "label": "Aita"
+  },
+  "file": {
+    "keywords": "asiakirja",
+    "label": "Tiedosto"
+  },
+  "file-minus": {
+    "keywords": "asiakirjan poistaminen",
+    "label": "Tiedosto miinus"
+  },
+  "file-plus": {
+    "keywords": "asiakirja lisää uusi",
+    "label": "Tiedosto plus"
+  },
+  "file-text": {
+    "keywords": "asiakirja",
+    "label": "Tiedoston teksti"
+  },
+  "film": {
+    "keywords": "elokuva video elokuva",
+    "label": "Elokuva"
+  },
+  "filter": {
+    "keywords": "lajittelusuppilo",
+    "label": "Suodata"
+  },
+  "fingerprint": {
+    "keywords": "biometrisen identiteetin kosketus",
+    "label": "Sormenjälki"
+  },
+  "fish": {
+    "keywords": "lemmikki akvaarioeläin",
+    "label": "Kala"
+  },
+  "flag": {
+    "keywords": "maamerkkiraportti",
+    "label": "Lippu"
+  },
+  "flame": {
+    "keywords": "palolämmityskattilan palaminen",
+    "label": "Liekki"
+  },
+  "flame-kindling": {
+    "keywords": "takkapuuta",
+    "label": "Nuotio"
+  },
+  "flashlight": {
+    "keywords": "taskulampun valonsäde",
+    "label": "Taskulamppu"
+  },
+  "flower": {
+    "keywords": "puutarhakasvien kukinta",
+    "label": "kukka"
+  },
+  "flower-2": {
+    "keywords": "puutarhakasvien kukinta",
+    "label": "Kukka (2)"
+  },
+  "folder": {
+    "keywords": "hakemistosta",
+    "label": "Kansio"
+  },
+  "folder-minus": {
+    "keywords": "hakemiston poistaminen",
+    "label": "Kansion miinus"
+  },
+  "folder-plus": {
+    "keywords": "hakemisto lisää uusi",
+    "label": "Kansio plus"
+  },
+  "footprints": {
+    "keywords": "läsnäolo kävellä liikkeen askeleet",
+    "label": "Jalanjäljet"
+  },
+  "fuel": {
+    "keywords": "bensa huoltoaseman tankki",
+    "label": "Polttoaine"
+  },
+  "gamepad": {
+    "keywords": "pelikonsolin ohjain",
+    "label": "Peliohjain"
+  },
+  "gamepad-2": {
+    "keywords": "pelikonsolin ohjain",
+    "label": "Peliohjain (2)"
+  },
+  "gauge": {
+    "keywords": "valitse mittarin painetaso",
+    "label": "Mittari"
+  },
+  "gift": {
+    "keywords": "lahja syntymäpäivän joulutarjous",
+    "label": "Lahja"
+  },
+  "git-branch": {
+    "keywords": "kehittäjäversio",
+    "label": "Git haara"
+  },
+  "git-commit": {
+    "keywords": "kehittäjäversio",
+    "label": "Sitoudu"
+  },
+  "git-merge": {
+    "keywords": "kehittäjäversio",
+    "label": "Git merge"
+  },
+  "git-pull-request": {
+    "keywords": "kehittäjäversio",
+    "label": "Git vetopyyntö"
+  },
+  "github": {
+    "keywords": "kehittäjäkoodi",
+    "label": "GitHub"
+  },
+  "gitlab": {
+    "keywords": "kehittäjäkoodi",
+    "label": "GitLab"
+  },
+  "glass-water": {
+    "keywords": "juoda",
+    "label": "Lasillinen vettä"
+  },
+  "glasses": {
+    "keywords": "silmälasit lukevat näköä",
+    "label": "lasit"
+  },
+  "globe": {
+    "keywords": "maailman maapallon Internet-kieli",
+    "label": "Maapallo"
+  },
+  "graduation-cap": {
+    "keywords": "koulun opiskelu yliopisto",
+    "label": "Valmistumislaki"
+  },
+  "grid": {
+    "keywords": "asettelu taulukon neliöt",
+    "label": "Ruudukko"
+  },
+  "hammer": {
+    "keywords": "työkalu itse rakentaa",
+    "label": "Vasara"
+  },
+  "hand": {
+    "keywords": "aallon kosketuspysäkki",
+    "label": "Käsi"
+  },
+  "hard-drive": {
+    "keywords": "levytallennus",
+    "label": "Kiintolevy"
+  },
+  "hash": {
+    "keywords": "hashtag numerotunniste",
+    "label": "Hash"
+  },
+  "haze": {
+    "keywords": "sumu sumuinen sää",
+    "label": "Haze"
+  },
+  "headphones": {
+    "keywords": "audiomusiikkia kuunnella",
+    "label": "Kuulokkeet"
+  },
+  "heart": {
+    "keywords": "rakkaus suosikki kuten",
+    "label": "Sydän"
+  },
+  "heart-pulse": {
+    "keywords": "terveys sydämenlyönti lääketieteellinen",
+    "label": "Sydämen pulssi"
+  },
+  "heater": {
+    "keywords": "lämmityspatterin lämmin termostaatti",
+    "label": "Lämmitin"
+  },
+  "help-circle": {
+    "keywords": "kysymys tuki FAQ",
+    "label": "Apupiiri"
+  },
+  "history": {
+    "keywords": "mennyt kirjaus kumoa viimeksi",
+    "label": "Historia"
+  },
+  "home": {
+    "keywords": "talon tärkein kojelauta asuinrakennus",
+    "label": "Koti"
+  },
+  "hourglass": {
+    "keywords": "odotusajan kesto",
+    "label": "Tiimalasi"
+  },
+  "ice-cream-cone": {
+    "keywords": "jälkiruoka kesä kylmä",
+    "label": "Jäätelötötterö"
+  },
+  "image": {
+    "keywords": "kuva valokuva",
+    "label": "Kuva"
+  },
+  "inbox": {
+    "keywords": "saapuneet sähköpostiviestit",
+    "label": "Saapuneet"
+  },
+  "info": {
+    "keywords": "tiedot yksityiskohdista",
+    "label": "Tietoja"
+  },
+  "instagram": {
+    "keywords": "sosiaalisen verkoston valokuva",
+    "label": "Instagram"
+  },
+  "italic": {
+    "keywords": "tekstimuoto",
+    "label": "Kursiivi"
+  },
+  "key": {
+    "keywords": "avaa oven lukitus",
+    "label": "Avain"
+  },
+  "key-round": {
+    "keywords": "avaa oven lukitus",
+    "label": "Avaimen pyöreä"
+  },
+  "keyboard": {
+    "keywords": "kirjoittamalla syöttönäppäimiä",
+    "label": "Näppäimistö"
+  },
+  "lamp": {
+    "keywords": "kevyt valaistus",
+    "label": "Lamppu"
+  },
+  "lamp-ceiling": {
+    "keywords": "kevyt riipus",
+    "label": "Kattolamppu"
+  },
+  "lamp-desk": {
+    "keywords": "valoa",
+    "label": "Pöytälamppu"
+  },
+  "lamp-floor": {
+    "keywords": "kevyesti seisomassa",
+    "label": "Lattiavalaisin"
+  },
+  "lamp-wall-up": {
+    "keywords": "valolamppu",
+    "label": "Seinävalaisin"
+  },
+  "languages": {
+    "keywords": "käännä kielialue i18n",
+    "label": "Kielet"
+  },
+  "laptop": {
+    "keywords": "tietokone pc muistikirja",
+    "label": "Kannettava tietokone"
+  },
+  "layers": {
+    "keywords": "pinotasot",
+    "label": "Kerrokset"
+  },
+  "layout": {
+    "keywords": "ruudukkosivun suunnittelu",
+    "label": "Asettelu"
+  },
+  "leaf": {
+    "keywords": "kasvi luonto ekologinen vihreä",
+    "label": "Lehti"
+  },
+  "life-buoy": {
+    "keywords": "auttaa tukemaan pelastusta",
+    "label": "Pelastusrengas"
+  },
+  "lightbulb": {
+    "keywords": "lampun lamppu päällä",
+    "label": "Hehkulamppu"
+  },
+  "lightbulb-off": {
+    "keywords": "vaalea tumma",
+    "label": "Hehkulamppu pois päältä"
+  },
+  "link": {
+    "keywords": "url-ketju",
+    "label": "Linkki"
+  },
+  "link-2": {
+    "keywords": "url-ketju",
+    "label": "Linkki (2)"
+  },
+  "linkedin": {
+    "keywords": "sosiaalisen verkoston työtä",
+    "label": "LinkedIn"
+  },
+  "list": {
+    "keywords": "kohteiden luettelointi",
+    "label": "Luettelo"
+  },
+  "list-music": {
+    "keywords": "jonon kappaleita",
+    "label": "Soittolista"
+  },
+  "loader": {
+    "keywords": "latausspinner odota",
+    "label": "Loader"
+  },
+  "locate-fixed": {
+    "keywords": "gps geolocation kohde",
+    "label": "Tarkka sijainti"
+  },
+  "lock": {
+    "keywords": "suojattu salasana suljettu",
+    "label": "Lukitse"
+  },
+  "lock-keyhole": {
+    "keywords": "lukittu turva-avain",
+    "label": "lukko (avaimenreikä)"
+  },
+  "log-in": {
+    "keywords": "kirjaudu kirjoita yhdistä",
+    "label": "Kirjaudu sisään"
+  },
+  "log-out": {
+    "keywords": "merkki poistu irrota",
+    "label": "Kirjaudu ulos"
+  },
+  "mail": {
+    "keywords": "sähköpostin kirjekuoriviesti",
+    "label": "Mail"
+  },
+  "mailbox": {
+    "keywords": "postilaatikko posti",
+    "label": "Postilaatikko"
+  },
+  "map": {
+    "keywords": "sijainnin navigointi",
+    "label": "Kartta"
+  },
+  "map-pin": {
+    "keywords": "paikkamerkki paikka gps",
+    "label": "Karttanasta"
+  },
+  "map-pinned": {
+    "keywords": "sijainti paikka gps",
+    "label": "Kartta kiinnitetty"
+  },
+  "maximize": {
+    "keywords": "koko näytön laajennus",
+    "label": "Maksimoi"
+  },
+  "maximize-2": {
+    "keywords": "laajenna koko näyttö suurenna",
+    "label": "Maksimoi (2)"
+  },
+  "menu": {
+    "keywords": "hampurilaisnavigointi",
+    "label": "Valikko"
+  },
+  "message-circle": {
+    "keywords": "chatin kommenttikupla",
+    "label": "Viesti ympyrä"
+  },
+  "message-square": {
+    "keywords": "chatin kommenttikupla",
+    "label": "Viesti neliö"
+  },
+  "mic": {
+    "keywords": "mikrofonin äänitallenne",
+    "label": "Mikrofoni"
+  },
+  "mic-off": {
+    "keywords": "mikrofonin mykistys",
+    "label": "Mikrofoni pois päältä"
+  },
+  "mic-vocal": {
+    "keywords": "karaoke ääni laulaa",
+    "label": "Laulumikrofoni"
+  },
+  "microwave": {
+    "keywords": "keittiön uunin lämpö",
+    "label": "Mikroaaltouuni"
+  },
+  "milestone": {
+    "keywords": "tienviitta askel",
+    "label": "Virstanpylväs"
+  },
+  "milk": {
+    "keywords": "juo maitopulloa",
+    "label": "Maito"
+  },
+  "minimize": {
+    "keywords": "pienentää kutistumista",
+    "label": "Minimoi"
+  },
+  "minimize-2": {
+    "keywords": "kutistuminen vähentää romahtamista",
+    "label": "Pienennä (2)"
+  },
+  "minus": {
+    "keywords": "poista vähennä vähemmän",
+    "label": "Miinus"
+  },
+  "minus-circle": {
+    "keywords": "poista vähennys",
+    "label": "Miinus ympyrä"
+  },
+  "minus-square": {
+    "keywords": "poista vähennys",
+    "label": "Miinus neliö"
+  },
+  "monitor": {
+    "keywords": "näyttötietokone",
+    "label": "Monitor"
+  },
+  "moon": {
+    "keywords": "yön pimeä uni",
+    "label": "Kuu"
+  },
+  "moon-star": {
+    "keywords": "yöunet selkeät",
+    "label": "Kuun tähti"
+  },
+  "more-horizontal": {
+    "keywords": "valikkovaihtoehdot pisteet",
+    "label": "Vaakasuuntaisempi"
+  },
+  "more-vertical": {
+    "keywords": "valikkovaihtoehdot pisteet",
+    "label": "Enemmän pystysuoraa"
+  },
+  "move": {
+    "keywords": "vedä nuolia",
+    "label": "Siirrä"
+  },
+  "music": {
+    "keywords": "kappaleen äänimuistiinpano",
+    "label": "Musiikki"
+  },
+  "music-2": {
+    "keywords": "kappaleen äänimuistiinpano",
+    "label": "Musiikki (2)"
+  },
+  "music-4": {
+    "keywords": "kappaleen äänimuistiinpanot",
+    "label": "Musiikki (4)"
+  },
+  "navigation": {
+    "keywords": "suunta GPS-nuoli",
+    "label": "Navigointi"
+  },
+  "navigation-2": {
+    "keywords": "suunta GPS-nuoli",
+    "label": "Navigointi (2)"
+  },
+  "network": {
+    "keywords": "LAN-topologian solmut",
+    "label": "Verkko"
+  },
+  "octagon": {
+    "keywords": "muotoinen pysäytys",
+    "label": "Kahdeksankulmio"
+  },
+  "package": {
+    "keywords": "laatikko toimituspaketti",
+    "label": "Paketti"
+  },
+  "package-open": {
+    "keywords": "toimituspaketti purkaa",
+    "label": "Paketti auki"
+  },
+  "paint-roller": {
+    "keywords": "koristella seinää",
+    "label": "Maalaustela"
+  },
+  "paintbrush": {
+    "keywords": "maali koristele väri",
+    "label": "Sivellin"
+  },
+  "paperclip": {
+    "keywords": "liitetiedosto",
+    "label": "Paperiliitin"
+  },
+  "parking-meter": {
+    "keywords": "auto",
+    "label": "Pysäköintimittari"
+  },
+  "party-popper": {
+    "keywords": "juhlakonfetti",
+    "label": "Juhlapoppera"
+  },
+  "pause": {
+    "keywords": "media pysähtyy",
+    "label": "Tauko"
+  },
+  "pause-circle": {
+    "keywords": "media pysähtyy",
+    "label": "Keskeytä ympyrä"
+  },
+  "paw-print": {
+    "keywords": "lemmikkieläin",
+    "label": "Tassun jälki"
+  },
+  "percent": {
+    "keywords": "prosentin alennus",
+    "label": "Prosentti"
+  },
+  "person-standing": {
+    "keywords": "ihmisen läsnäolo",
+    "label": "Henkilö seisomassa"
+  },
+  "phone": {
+    "keywords": "puhelinsoitto",
+    "label": "Puhelin"
+  },
+  "phone-call": {
+    "keywords": "soittaa puhelinta",
+    "label": "Puhelinsoitto"
+  },
+  "phone-forwarded": {
+    "keywords": "siirto",
+    "label": "Puhelin välitetty"
+  },
+  "phone-incoming": {
+    "keywords": "vastaanotettu puhelu",
+    "label": "Puhelin saapuu"
+  },
+  "phone-missed": {
+    "keywords": "menetetty puhelu",
+    "label": "Puhelin hukassa"
+  },
+  "phone-off": {
+    "keywords": "pois käytöstä",
+    "label": "Puhelin pois päältä"
+  },
+  "phone-outgoing": {
+    "keywords": "lähetetty puhelu",
+    "label": "Puhelin lähtee"
+  },
+  "pie-chart": {
+    "keywords": "kaavion tilastot",
+    "label": "Ympyräkaavio"
+  },
+  "piggy-bank": {
+    "keywords": "säästävä rahatalous",
+    "label": "Säästöpossu"
+  },
+  "pill": {
+    "keywords": "terveydenhuollon lääke",
+    "label": "Pilleri"
+  },
+  "pipette": {
+    "keywords": "värivalitsin näyte",
+    "label": "Pipetti"
+  },
+  "pizza": {
+    "keywords": "italialainen ruoka-ateria",
+    "label": "Pizza"
+  },
+  "plane": {
+    "keywords": "lentomatka lentokentän loma",
+    "label": "Lentokone"
+  },
+  "play": {
+    "keywords": "media käynnistää videon",
+    "label": "Pelaa"
+  },
+  "play-circle": {
+    "keywords": "median aloitusvideo",
+    "label": "Pelaa ympyrää"
+  },
+  "plug": {
+    "keywords": "pistorasiasta sähköä",
+    "label": "Pistoke"
+  },
+  "plug-2": {
+    "keywords": "pistorasiasta sähköä",
+    "label": "Pistoke (2)"
+  },
+  "plug-zap": {
+    "keywords": "älykäs virtakytkin",
+    "label": "Kytke zap"
+  },
+  "plus": {
+    "keywords": "lisää uusi luo lisää",
+    "label": "Plus"
+  },
+  "plus-circle": {
+    "keywords": "lisää uusi luomus",
+    "label": "Plus ympyrä"
+  },
+  "plus-square": {
+    "keywords": "lisää uusi luomus",
+    "label": "Plus neliö"
+  },
+  "pocket": {
+    "keywords": "tallenna lukea myöhemmin",
+    "label": "Tasku"
+  },
+  "podcast": {
+    "keywords": "radiolähetyksen ääni",
+    "label": "Podcast"
+  },
+  "popcorn": {
+    "keywords": "elokuvan välipala elokuva",
+    "label": "Popcornia"
+  },
+  "power": {
+    "keywords": "sammutus valmiustilassa",
+    "label": "Teho"
+  },
+  "printer": {
+    "keywords": "tulostuspaperia",
+    "label": "Tulostin"
+  },
+  "projector": {
+    "keywords": "projektio elokuvateatteri",
+    "label": "Projektori"
+  },
+  "qr-code": {
+    "keywords": "skannaa viivakoodilinkki",
+    "label": "QR-koodi"
+  },
+  "rabbit": {
+    "keywords": "lemmikkieläin",
+    "label": "Kani"
+  },
+  "radio": {
+    "keywords": "lähettää fm-signaalia",
+    "label": "Radio"
+  },
+  "radio-tower": {
+    "keywords": "lähettää lähettimen signaalia",
+    "label": "Radio torni"
+  },
+  "rainbow": {
+    "keywords": "värit sää",
+    "label": "Sateenkaari"
+  },
+  "receipt": {
+    "keywords": "laskun laskulippu",
+    "label": "Kuitti"
+  },
+  "recycle": {
+    "keywords": "ekojätteiden lajittelu",
+    "label": "Kierrätä"
+  },
+  "refresh-ccw": {
+    "keywords": "lataa uudelleen synkronointi kumoa",
+    "label": "Päivitä ccw"
+  },
+  "refresh-cw": {
+    "keywords": "lataa synkronointi uudelleen",
+    "label": "Päivitä cw"
+  },
+  "refrigerator": {
+    "keywords": "jääkaappi keittiö kylmä",
+    "label": "Jääkaappi"
+  },
+  "repeat": {
+    "keywords": "silmukkasykli uudelleen",
+    "label": "Toista"
+  },
+  "rewind": {
+    "keywords": "media takaisin edellinen",
+    "label": "Kelaa taaksepäin"
+  },
+  "rotate-ccw": {
+    "keywords": "käänny vasemmalle kumoa",
+    "label": "Kierrä ccw"
+  },
+  "rotate-cw": {
+    "keywords": "käänny oikealle toista",
+    "label": "Kierrä cw"
+  },
+  "route": {
+    "keywords": "reittimatkan navigointi",
+    "label": "Reitti"
+  },
+  "router": {
+    "keywords": "laatikkomodeemin verkkoyhdyskäytävä",
+    "label": "Reititin"
+  },
+  "rss": {
+    "keywords": "uutisten tilaaminen",
+    "label": "RSS-syöte"
+  },
+  "ruler": {
+    "keywords": "mittaa koko pituus",
+    "label": "Viivain"
+  },
+  "salad": {
+    "keywords": "ruoka terveellinen kasvis",
+    "label": "Salaatti"
+  },
+  "sandwich": {
+    "keywords": "ruoka lounas välipala",
+    "label": "Voileipä"
+  },
+  "satellite-dish": {
+    "keywords": "tv vastaanotto",
+    "label": "Satelliittiantenni"
+  },
+  "save": {
+    "keywords": "levykekauppa",
+    "label": "Tallenna"
+  },
+  "scan": {
+    "keywords": "havaita analyysi",
+    "label": "Skannaa"
+  },
+  "scan-barcode": {
+    "keywords": "tuote",
+    "label": "Skannaa viivakoodi"
+  },
+  "scan-face": {
+    "keywords": "id biometrinen",
+    "label": "Skannaa kasvot"
+  },
+  "scissors": {
+    "keywords": "leikata",
+    "label": "Sakset"
+  },
+  "search": {
+    "keywords": "etsi suurennuslasi",
+    "label": "Hae"
+  },
+  "send": {
+    "keywords": "postiviestikone",
+    "label": "Lähetä"
+  },
+  "server": {
+    "keywords": "datan isännöintiteline",
+    "label": "Palvelin"
+  },
+  "settings": {
+    "keywords": "vaihdeasetusten konfigurointiasetukset",
+    "label": "Asetukset"
+  },
+  "settings-2": {
+    "keywords": "vaihdeasetukset konfiguraatio",
+    "label": "Asetukset (2)"
+  },
+  "share": {
+    "keywords": "lähetä vienti",
+    "label": "Jaa"
+  },
+  "share-2": {
+    "keywords": "lähetä verkko",
+    "label": "Jaa (2)"
+  },
+  "shield": {
+    "keywords": "turvasuojaus turvallinen",
+    "label": "Kilpi"
+  },
+  "shield-alert": {
+    "keywords": "tietoturvavaroituksen rikkomisesta",
+    "label": "Suojavaroitus"
+  },
+  "shield-check": {
+    "keywords": "suojattu suojattu ok",
+    "label": "Suojan tarkistus"
+  },
+  "shield-off": {
+    "keywords": "suojaus pois käytöstä",
+    "label": "Suoja pois"
+  },
+  "ship": {
+    "keywords": "vene merisatama",
+    "label": "Laiva"
+  },
+  "shirt": {
+    "keywords": "vaatteet pyykkivaatteet",
+    "label": "Paita"
+  },
+  "shopping-bag": {
+    "keywords": "osta kaupasta osto",
+    "label": "Ostoskassi"
+  },
+  "shopping-basket": {
+    "keywords": "kaupasta ostaa elintarvikkeita",
+    "label": "Ostoskori"
+  },
+  "shopping-cart": {
+    "keywords": "osta kauppakori",
+    "label": "Ostoskori"
+  },
+  "shovel": {
+    "keywords": "puutarhan kaivutyökalu",
+    "label": "Lapio"
+  },
+  "shower-head": {
+    "keywords": "kylpyhuoneen vesi",
+    "label": "Suihkupää"
+  },
+  "shuffle": {
+    "keywords": "satunnainen sekoitus",
+    "label": "Sekoita"
+  },
+  "sidebar": {
+    "keywords": "paneelin asettelu",
+    "label": "Sivupalkki"
+  },
+  "siren": {
+    "keywords": "hälytyshälytys hätätilanteessa",
+    "label": "Sireeni"
+  },
+  "skip-back": {
+    "keywords": "media edellinen",
+    "label": "Hyppää takaisin"
+  },
+  "skip-forward": {
+    "keywords": "media seuraavaksi",
+    "label": "Hyppää eteenpäin"
+  },
+  "slack": {
+    "keywords": "chat-ryhmätyöskentely",
+    "label": "löysä"
+  },
+  "slash": {
+    "keywords": "kielletty ei ole poistettu käytöstä",
+    "label": "Slash"
+  },
+  "sliders": {
+    "keywords": "taajuuskorjaimen asetusten säätäminen",
+    "label": "Liukusäätimet"
+  },
+  "sliders-horizontal": {
+    "keywords": "asetukset säätää suodattimen taajuuskorjainta",
+    "label": "Liukusäätimet vaakatasossa"
+  },
+  "smartphone": {
+    "keywords": "matkapuhelimen solu",
+    "label": "Älypuhelin"
+  },
+  "smartphone-charging": {
+    "keywords": "matkapuhelimen akun lataus",
+    "label": "Älypuhelimen lataus"
+  },
+  "snowflake": {
+    "keywords": "lumi kylmä pakkas frost talvi ilmastointi jäähdytys",
+    "label": "Lumihiutale"
+  },
+  "sofa": {
+    "keywords": "olohuoneen sohva",
+    "label": "Sohva"
+  },
+  "solar-panel": {
+    "keywords": "aurinkosähkön tuotanto",
+    "label": "Aurinkopaneeli"
+  },
+  "sparkles": {
+    "keywords": "magic shine uusi ai",
+    "label": "Kimaltelee"
+  },
+  "speaker": {
+    "keywords": "äänen äänen kaiutin",
+    "label": "Kaiutin"
+  },
+  "sprout": {
+    "keywords": "kasvi kasvaa puutarhan taimi",
+    "label": "Verso"
+  },
+  "square": {
+    "keywords": "muotoinen laatikko",
+    "label": "Neliö"
+  },
+  "squirrel": {
+    "keywords": "eläinten villieläintarha",
+    "label": "Orava"
+  },
+  "star": {
+    "keywords": "suosikki arvosana kuten",
+    "label": "Tähti"
+  },
+  "stethoscope": {
+    "keywords": "lääkäri terveys lääketieteellinen",
+    "label": "Stetoskooppi"
+  },
+  "stop-circle": {
+    "keywords": "media pysähtyy",
+    "label": "Pysäytä ympyrä"
+  },
+  "sun": {
+    "keywords": "päivä valoisa sää kirkas",
+    "label": "Sun"
+  },
+  "sun-dim": {
+    "keywords": "hämärä valo",
+    "label": "Matala kirkkaus"
+  },
+  "sun-medium": {
+    "keywords": "himmeän valon taso",
+    "label": "Kirkkaus"
+  },
+  "sun-moon": {
+    "keywords": "teeman vaihto",
+    "label": "Vaalea/tumma"
+  },
+  "sun-snow": {
+    "keywords": "hvac",
+    "label": "Lämmitys ja jäähdytys"
+  },
+  "sunrise": {
+    "keywords": "aamun sarastaa",
+    "label": "Auringonnousu"
+  },
+  "sunset": {
+    "keywords": "iltahämärä",
+    "label": "Auringonlasku"
+  },
+  "tablet": {
+    "keywords": "ipad-laite",
+    "label": "Tabletti"
+  },
+  "tablet-smartphone": {
+    "keywords": "laitteiden mobiilinäytöt",
+    "label": "Tabletti-älypuhelin"
+  },
+  "tag": {
+    "keywords": "etiketin hinta",
+    "label": "Tag"
+  },
+  "target": {
+    "keywords": "tavoite tavoite tavoite",
+    "label": "Kohde"
+  },
+  "terminal": {
+    "keywords": "konsolin komentotulkki",
+    "label": "Terminaali"
+  },
+  "thermometer": {
+    "keywords": "lämpötila lämpöasteita",
+    "label": "Lämpömittari"
+  },
+  "thermometer-snowflake": {
+    "keywords": "jääkylmä talvi",
+    "label": "Kylmä lämpötila"
+  },
+  "thermometer-sun": {
+    "keywords": "kuuma kuuma kesä",
+    "label": "Lämmin lämpötila"
+  },
+  "thumbs-down": {
+    "keywords": "ei pidä pahasta ei",
+    "label": "Peukut alas"
+  },
+  "thumbs-up": {
+    "keywords": "kuten hyvä kyllä ok",
+    "label": "Peukut pystyssä"
+  },
+  "ticket": {
+    "keywords": "tapahtuman elokuvapassi",
+    "label": "Lippu"
+  },
+  "timer": {
+    "keywords": "ajastimen sekuntikellon viive",
+    "label": "Ajastin"
+  },
+  "toggle-left": {
+    "keywords": "sammuttaa",
+    "label": "Vaihda vasemmalle"
+  },
+  "toggle-right": {
+    "keywords": "kytke päälle",
+    "label": "Vaihda oikealle"
+  },
+  "toilet": {
+    "keywords": "kylpyhuone wc wc",
+    "label": "WC"
+  },
+  "toolbox": {
+    "keywords": "työkalujen huolto itse",
+    "label": "Työkalulaatikko"
+  },
+  "tornado": {
+    "keywords": "myrskytuuli sää",
+    "label": "Tornado"
+  },
+  "tractor": {
+    "keywords": "maatalousmaatalous",
+    "label": "Traktori"
+  },
+  "train-front": {
+    "keywords": "rautatieliikenteen asema",
+    "label": "Juna edessä"
+  },
+  "trash": {
+    "keywords": "poista roskakori poista roskat",
+    "label": "Roskakori"
+  },
+  "trash-2": {
+    "keywords": "poista roskakori poista roskat",
+    "label": "Roskakori (2)"
+  },
+  "tree-deciduous": {
+    "keywords": "puutarha luontometsä",
+    "label": "Lehtipuu"
+  },
+  "tree-pine": {
+    "keywords": "havumetsän joulu",
+    "label": "Puu mänty"
+  },
+  "trees": {
+    "keywords": "metsän luonnonpuisto",
+    "label": "puut"
+  },
+  "trending-down": {
+    "keywords": "vähentää kaavion pudotusta",
+    "label": "Trendikäs alaspäin"
+  },
+  "trending-up": {
+    "keywords": "lisää kaavion nousun kasvua",
+    "label": "Nousussa"
+  },
+  "triangle": {
+    "keywords": "muoto",
+    "label": "Kolmio"
+  },
+  "truck": {
+    "keywords": "toimitus kuljetusauto",
+    "label": "Kuorma-auto"
+  },
+  "turtle": {
+    "keywords": "lemmikkieläin hidas",
+    "label": "Kilpikonna"
+  },
+  "tv": {
+    "keywords": "television näyttö",
+    "label": "TV"
+  },
+  "tv-minimal": {
+    "keywords": "tv-ruudun media",
+    "label": "TV (minimi)"
+  },
+  "twitter": {
+    "keywords": "sosiaalisen verkoston lintu",
+    "label": "Twitter"
+  },
+  "type": {
+    "keywords": "tekstin fonttikirjain",
+    "label": "Kirjoita"
+  },
+  "umbrella": {
+    "keywords": "sadesääsuoja",
+    "label": "Sateenvarjo"
+  },
+  "underline": {
+    "keywords": "tekstimuoto",
+    "label": "Alleviivaus"
+  },
+  "unlock": {
+    "keywords": "avaa turvaton lukko auki",
+    "label": "Avaa lukitus"
+  },
+  "unplug": {
+    "keywords": "irrotettu irrota irti",
+    "label": "Irrota pistoke"
+  },
+  "upload": {
+    "keywords": "lähetä tuonti",
+    "label": "Lähetä"
+  },
+  "upload-cloud": {
+    "keywords": "lähetä",
+    "label": "Lataa pilvi"
+  },
+  "usb": {
+    "keywords": "portin liittimen avain",
+    "label": "USB"
+  },
+  "user": {
+    "keywords": "henkilöprofiilin tili",
+    "label": "Käyttäjä"
+  },
+  "user-check": {
+    "keywords": "validoitu hyväksytty",
+    "label": "Käyttäjän tarkistus"
+  },
+  "user-minus": {
+    "keywords": "poista poista",
+    "label": "Käyttäjä miinus"
+  },
+  "user-plus": {
+    "keywords": "lisää uusi kutsu",
+    "label": "Käyttäjä plus"
+  },
+  "user-round": {
+    "keywords": "profiilitili joku",
+    "label": "Henkilö (pyöreä)"
+  },
+  "user-x": {
+    "keywords": "poista estetty",
+    "label": "Käyttäjä x"
+  },
+  "users": {
+    "keywords": "ihmiset ryhmä joukkue perhe",
+    "label": "Käyttäjät"
+  },
+  "users-round": {
+    "keywords": "ihmisten perhejoukkue",
+    "label": "ryhmä"
+  },
+  "utensils": {
+    "keywords": "keittiön ruokailuvälineet syö ateria",
+    "label": "Astiat"
+  },
+  "utensils-crossed": {
+    "keywords": "keittiö ravintola syö",
+    "label": "Astiat ristissä"
+  },
+  "utility-pole": {
+    "keywords": "verkon voimajohto sähkö",
+    "label": "Käyttöpylväs"
+  },
+  "video": {
+    "keywords": "kameran elokuvan tallennus",
+    "label": "Video"
+  },
+  "video-off": {
+    "keywords": "kamera pois käytöstä",
+    "label": "Video pois päältä"
+  },
+  "voicemail": {
+    "keywords": "viestivastaaja",
+    "label": "Vastaaja"
+  },
+  "volume": {
+    "keywords": "äänen ääni",
+    "label": "Äänenvoimakkuus"
+  },
+  "volume-1": {
+    "keywords": "äänen matala ääni",
+    "label": "Volume (1)"
+  },
+  "volume-2": {
+    "keywords": "äänen korkea äänenvoimakkuus",
+    "label": "Volume (2)"
+  },
+  "volume-off": {
+    "keywords": "mykistys hiljainen ei ääntä",
+    "label": "Äänenvoimakkuus pois"
+  },
+  "volume-x": {
+    "keywords": "mykistää hiljaisen äänen",
+    "label": "Tilavuus x"
+  },
+  "wallet": {
+    "keywords": "rahaa maksaa budjetti",
+    "label": "Lompakko"
+  },
+  "wand-sparkles": {
+    "keywords": "magic auto ai tuottaa",
+    "label": "Sauva kimaltelee"
+  },
+  "warehouse": {
+    "keywords": "autotallin varastokatos",
+    "label": "Varasto"
+  },
+  "washing-machine": {
+    "keywords": "pyykinpesukone",
+    "label": "Pesukone"
+  },
+  "watch": {
+    "keywords": "kellon ranne",
+    "label": "Katso"
+  },
+  "waves": {
+    "keywords": "veden meren kosteus",
+    "label": "Aallot"
+  },
+  "wifi": {
+    "keywords": "verkko langaton internet",
+    "label": "Wi-Fi"
+  },
+  "wifi-high": {
+    "keywords": "verkon signaali",
+    "label": "Wi-Fi vahva"
+  },
+  "wifi-low": {
+    "keywords": "verkon signaali",
+    "label": "Wi-Fi heikko"
+  },
+  "wifi-off": {
+    "keywords": "verkko pois käytöstä",
+    "label": "Wi-Fi pois päältä"
+  },
+  "wind": {
+    "keywords": "ilmatuulen tuuletin",
+    "label": "Tuuli"
+  },
+  "wine": {
+    "keywords": "juo alkoholilasia",
+    "label": "Viini"
+  },
+  "wrench": {
+    "keywords": "työkalukorjauksen huoltoasetukset",
+    "label": "Jakoavain"
+  },
+  "x": {
+    "keywords": "peruuta risti nro",
+    "label": "Sulje"
+  },
+  "x-circle": {
+    "keywords": "peruuta virhe",
+    "label": "Sulje (ympyrä)"
+  },
+  "x-square": {
+    "keywords": "peruuttaa",
+    "label": "Sulje (neliö)"
+  },
+  "zap": {
+    "keywords": "salama salama sähköenergia",
+    "label": "Zap"
+  },
+  "zap-off": {
+    "keywords": "salama pois käytöstä",
+    "label": "Lopeta"
+  },
+  "zoom-in": {
+    "keywords": "suurentaa suurentaa",
+    "label": "Lähennä"
+  },
+  "zoom-out": {
+    "keywords": "suurentaa kutistua",
+    "label": "Loitonna"
+  }
+}

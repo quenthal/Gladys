@@ -14,6 +14,20 @@ const stateManager = new StateManager(event);
 
 describe('user.create', () => {
   const user = new User({}, stateManager, variable);
+  it('should persist Finnish as the preferred language', async () => {
+    const createdUser = await user.create({
+      firstname: 'Eero',
+      lastname: 'Testi',
+      email: 'eero.test@example.com',
+      password: 'test-password-fi',
+      birthdate: '01/01/1990',
+      language: 'fi',
+      role: 'admin',
+    });
+    expect(createdUser.language).to.equal('fi');
+    const storedUser = await user.getById(createdUser.id);
+    expect(storedUser.language).to.equal('fi');
+  });
   it('should create user', async () => {
     const createdUser = await user.create({
       firstname: 'Tony',
